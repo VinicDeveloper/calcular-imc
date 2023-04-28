@@ -1,0 +1,31 @@
+section{
+  width: 640px;
+  height: 460px;
+  box-shadow: 15px 15px 30px;
+  text-align: center;
+  display: block; margin-left: auto; margin-right: auto;
+  background: darkorchid;
+  border-radius: 15px;
+}
+
+img{
+  display: block; margin-left: auto; margin-right: auto;
+  width: 360px;
+  height: 260px
+}
+
+header{
+  text-align: center;
+  font-size: 15pt;
+}
+body{
+  font: normal 15pt Arial;
+  text-align: center;
+  background-color: cornflowerblue;
+}
+#res{
+  text-align: center;
+}
+input{
+  text-align: center;
+}
